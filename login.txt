@@ -1,0 +1,13 @@
+<Head>
+ <Title> SK VCS </Title>
+ <h1> Company Profile </h1>
+ 
+ 
+ <br/>
+ <body> 
+ We are the one and only one automator company that will bring the most cost efficient <br/>
+ Solution for your company.<br/>
+ <br/> <br/>
+ Contact SK Rashadul Islam <br/>(01962424411)<br/>Slogan: Be the most smart executor
+ </body>
+</Head>
